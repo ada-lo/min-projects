@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+    border-style:outset;
+    border-width: 3px;
+    border-color:black;
+    padding: 40px;
+    
+
+}
+h1{
+    color: black;
+    font-size: large;
+}
+h3{
+    font-size: medium;
+}
+.a{ color:blue;
+    font-size: small; 
+
+}
+h3{
+    color:rgb(0, 247, 95)
+
+}
+.b{ 
+    color: rgb(12, 12, 12);
+    font-size: small;
+
+}
+a:link{
+    color:blue
+}
+a:visited{
+    
+}
+a:hover{
+    color:brown
+}
