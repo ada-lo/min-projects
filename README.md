@@ -1,2 +1,2 @@
 # min projects
- this are project done from the roadmap page 
+ this are projects done from the roadmap page 
